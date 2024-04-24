@@ -39,6 +39,6 @@ Welcome to the GitHub repository for our Ride-Sharing System Simulation.
 
 ### Prerequisites
 
-- C++ Compiler (GCC recommended)
+- C++ Compiler 
 
 
